@@ -2,7 +2,7 @@
 Số A:<input type ="number" name="soA" value="0"><br>
 Số B:<input type ="number" name="soB" value="0"><br>
 Số C:<input type ="number" name="soC" value="0"><br>
-<input type="submit" value ="Tính">
+<input type="submit" value ="Submit">
 </form>
 
 <?php
